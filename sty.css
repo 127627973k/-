@@ -1,0 +1,85 @@
+@charset "utf-8";
+body {
+    background-image: url(vector-scratched-grunge-background.jpg);
+}
+
+body header {
+    text-align: center;
+    color: rgba(57,34,3,1.00);
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(169,160,150,1.00);
+    border-radius: 8px;
+}
+.BGC header h3 {
+    margin-top: 83px;
+    font-size: 22px;
+}
+.BGC header img {
+    margin-top: 27px;
+}
+
+.BGC header h1 {
+    font-size: 61px;
+}
+
+
+.BGC {
+    background-color: rgba(230,171,125,0.29);
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 33px;
+    padding-bottom: 32px;
+}
+.BGC main article {
+    background-color: rgba(202,199,194,0.73);
+    padding-top: 4px;
+    padding-right: 7px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+    margin-right: 5px;
+    border-radius: 13px;
+}
+main article h3 {
+    padding-left: 30px;
+    padding-bottom: 7px;
+    margin-top: 11px;
+    color: rgba(56,26,13,1.00);
+}
+main article p {
+    margin-left: 55px;
+    margin-right: 60px;
+    padding-left: 1%;
+    padding-right: 18%;
+}
+
+
+main article .圖1 {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 1px;
+    margin-bottom: 35px;
+    margin-left: 31px;
+}
+.BGC main footer {
+    text-align: center;
+    margin-top: 90px;
+    color: rgba(92,92,92,1.00);
+}
+article p img {
+    margin-right: 30px;
+    margin-left: 20px;
+    background-color: rgba(114,114,114,0.63);
+}
+article p a:link  {
+    color: rgba(92,54,5,1.00);
+    text-decoration: none;
+}
+article p a:hover {
+    color: rgba(90,82,12,1.00);
+    text-decoration: underline;
+}
